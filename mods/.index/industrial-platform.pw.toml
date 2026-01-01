@@ -1,0 +1,17 @@
+filename = 'Industrial Platform-1.6.0-all.jar'
+name = 'Industrial Platform'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Industrial Platform-1.6.0-hotfix-2.jar'
+
+[download]
+hash = '6c6cefd4d5844d2295ac46f02f50144bf39e3eca'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7369656
+project-id = 1350900
