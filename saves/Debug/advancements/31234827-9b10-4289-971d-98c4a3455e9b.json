@@ -8346,13 +8346,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
-    "criteria": {
-      "has_item": "2025-03-17 23:57:42 +0800",
-      "has_the_recipe": "2025-03-17 23:57:42 +0800"
-    },
-    "done": true
-  },
   "tconstruct:recipes/redstone/world/wood/skyroot/button": {
     "criteria": {
       "has_the_recipe": "2025-03-17 23:57:42 +0800",
@@ -32656,13 +32649,11 @@
       "bursting": "2025-03-17 23:57:44 +0800",
       "silky": "2025-03-17 23:57:44 +0800",
       "flinging": "2025-03-17 23:57:44 +0800",
-      "long_fall": "2025-03-17 23:57:44 +0800",
       "slurping": "2025-03-17 23:57:44 +0800",
       "gilded": "2025-03-17 23:57:44 +0800",
       "melting": "2025-03-17 23:57:44 +0800",
       "protection": "2025-03-17 23:57:44 +0800",
       "ambidextrous": "2025-03-17 23:57:44 +0800",
-      "collecting": "2025-12-26 13:02:33 +0800",
       "exchanging": "2025-03-17 23:57:44 +0800",
       "pathing": "2025-03-17 23:57:44 +0800",
       "throwing": "2025-12-26 13:02:33 +0800",
@@ -32686,7 +32677,7 @@
       "parrying": "2025-03-17 23:57:44 +0800",
       "tool_belt": "2025-03-17 23:57:44 +0800"
     },
-    "done": true
+    "done": false
   },
   "immersiveengineering:recipes/misc/crafting/ingot_nickel_to_storage_nickel": {
     "criteria": {

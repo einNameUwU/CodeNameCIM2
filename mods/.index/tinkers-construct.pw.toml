@@ -1,17 +1,17 @@
-filename = 'TConstruct-1.20.1-3.11.0.148.jar'
+filename = 'TConstruct-1.20.1-3.11.1.158.jar'
 name = 'Tinkers Construct'
 side = 'server'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'Throwback Update (3.11.0.148) for 1.20.1'
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Slimeworld Update (3.11.1.158) for 1.20.1'
 
 [download]
-hash = '95d252248011babf7580cd65322cfceb255d4dc3'
+hash = '5084f883390b2dbb337ce53213fd5dfdd3cc57e5'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7371800
+file-id = 7419961
 project-id = 74072
