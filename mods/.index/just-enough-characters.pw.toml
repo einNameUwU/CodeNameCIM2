@@ -1,17 +1,17 @@
-filename = 'jecharacters-1.20.1-forge-4.6.2.jar'
+filename = 'jecharacters-1.20.1-forge-4.6.3.jar'
 name = 'Just Enough Characters'
 side = ''
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'jecharacters-1.20.1-forge-4.6.2.jar'
+x-prismlauncher-version-number = 'jecharacters-1.20.1-forge-4.6.3.jar'
 
 [download]
-hash = 'e831fdf45686fd1f34e69aa6be07c2e8ec16ad5d'
+hash = '049b538f963c908d2c808cb8d4edc6594403d7ac'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7320292
+file-id = 7411324
 project-id = 250702
