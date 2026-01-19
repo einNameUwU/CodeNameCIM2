@@ -54135,5 +54135,11 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/crafting_station_from_tables": {
+    "criteria": {
+      "has_item": "2026-01-19 20:14:33 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
