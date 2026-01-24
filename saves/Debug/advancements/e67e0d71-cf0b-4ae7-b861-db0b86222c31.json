@@ -11828,13 +11828,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
-    "criteria": {
-      "has_item": "2025-08-12 13:08:39 +0800",
-      "has_the_recipe": "2025-08-12 13:08:39 +0800"
-    },
-    "done": true
-  },
   "tconstruct:recipes/redstone/world/wood/skyroot/button": {
     "criteria": {
       "has_the_recipe": "2025-08-12 13:08:39 +0800",
@@ -44281,7 +44274,6 @@
       "bursting": "2025-08-12 13:08:39 +0800",
       "silky": "2025-08-12 13:08:39 +0800",
       "flinging": "2025-08-12 13:08:39 +0800",
-      "long_fall": "2025-08-12 13:08:39 +0800",
       "slurping": "2025-08-12 13:08:39 +0800",
       "gilded": "2025-08-12 13:08:39 +0800",
       "melting": "2025-08-12 13:08:39 +0800",
@@ -51837,6 +51829,30 @@
   "alexscaves:alexscaves/caramel": {
     "criteria": {
       "mussel": "2026-01-03 18:05:33 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_spruce": {
+    "criteria": {
+      "has_wood": "2026-01-24 22:46:31 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2026-01-24 23:52:55 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_dark_oak": {
+    "criteria": {
+      "has_wood": "2026-01-24 22:46:36 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/crafting_station_from_tables": {
+    "criteria": {
+      "has_item": "2026-01-24 22:12:41 +0800"
     },
     "done": true
   },
