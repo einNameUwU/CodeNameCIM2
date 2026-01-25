@@ -51832,15 +51832,15 @@
     },
     "done": true
   },
-  "kaleidoscope_cookery:recipes/decorations/cook_stool_spruce": {
+  "tconstruct:recipes/decorations/tables/crafting_station_from_tables": {
     "criteria": {
-      "has_wood": "2026-01-24 22:46:31 +0800"
+      "has_item": "2026-01-24 22:12:41 +0800"
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_magnetron": {
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_spruce": {
     "criteria": {
-      "killed": "2026-01-24 23:52:55 +0800"
+      "has_wood": "2026-01-24 22:46:31 +0800"
     },
     "done": true
   },
@@ -51850,9 +51850,36 @@
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/tables/crafting_station_from_tables": {
+  "alexscaves:alexscaves/defeat_magnetron": {
     "criteria": {
-      "has_item": "2026-01-24 22:12:41 +0800"
+      "killed": "2026-01-24 23:52:55 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/knightmetal_ingot_from_block": {
+    "criteria": {
+      "has_item": "2026-01-25 13:28:44 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:flower_straw_hat": {
+    "criteria": {
+      "has_flower_straw_hat": "2026-01-25 12:22:09 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:scarecrow": {
+    "criteria": {
+      "place_scarecrow": "2026-01-25 14:14:39 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:farmer_set": {
+    "criteria": {
+      "has_farmer_chestplate": "2026-01-25 12:22:10 +0800",
+      "has_farmer_leggings": "2026-01-25 12:22:11 +0800",
+      "has_farmer_boots": "2026-01-25 12:22:12 +0800",
+      "has_straw_hat": "2026-01-25 12:22:09 +0800"
     },
     "done": true
   },
