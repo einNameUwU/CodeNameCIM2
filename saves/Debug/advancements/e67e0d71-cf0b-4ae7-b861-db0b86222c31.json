@@ -13296,12 +13296,13 @@
       "broad_axe": "2025-08-12 13:08:39 +0800",
       "scythe": "2025-08-12 13:08:39 +0800",
       "excavator": "2025-08-12 13:08:39 +0800",
+      "javelin": "2026-01-26 12:04:53 +0800",
       "sledge_hammer": "2025-08-12 13:08:39 +0800",
       "longbow": "2025-08-12 13:08:39 +0800",
       "vein_hammer": "2025-08-12 13:08:39 +0800",
       "cleaver": "2025-08-12 13:08:39 +0800"
     },
-    "done": false
+    "done": true
   },
   "createdeco:recipes/building_blocks/corner_pearl_brick_stairs_from_short_pearl_bricks_stonecutting": {
     "criteria": {
@@ -16726,6 +16727,7 @@
       "blazing_bone": "2025-08-12 13:08:39 +0800",
       "venombone": "2025-08-12 13:08:39 +0800",
       "bone": "2025-08-12 13:08:39 +0800",
+      "leather": "2026-01-26 12:04:53 +0800",
       "gold": "2025-08-12 13:08:39 +0800",
       "ender_pearl": "2025-08-12 13:08:39 +0800",
       "pig_iron": "2025-08-12 13:08:39 +0800",
@@ -16734,7 +16736,7 @@
       "necrotic_bone": "2025-08-12 13:08:39 +0800",
       "rose_gold": "2025-08-12 13:08:39 +0800"
     },
-    "done": false
+    "done": true
   },
   "createdeco:recipes/building_blocks/tiled_dusk_brick_stairs_from_dusk_bricks_stonecutting": {
     "criteria": {
@@ -21139,6 +21141,7 @@
       "vine": "2025-08-12 13:08:39 +0800",
       "whitestone": "2025-08-12 13:08:39 +0800",
       "slimesteel": "2025-08-12 13:08:39 +0800",
+      "knightmetal": "2026-01-26 12:04:53 +0800",
       "blazing_bone": "2025-08-12 13:08:39 +0800",
       "queens_slime": "2025-08-12 13:08:39 +0800",
       "bone": "2025-08-12 13:08:39 +0800",
@@ -21151,9 +21154,10 @@
       "flint": "2025-08-12 13:08:39 +0800",
       "iron": "2025-08-12 13:08:39 +0800",
       "nahuatl": "2025-08-12 13:08:39 +0800",
+      "ichorskin": "2026-01-26 12:04:53 +0800",
       "chorus": "2025-08-12 13:08:39 +0800"
     },
-    "done": false
+    "done": true
   },
   "ad_astra:recipes/misc/gray_flag": {
     "criteria": {
@@ -44262,6 +44266,7 @@
       "flamewake": "2025-08-12 13:08:39 +0800",
       "bonking": "2025-08-12 13:08:39 +0800",
       "crystalshot": "2025-08-12 13:08:39 +0800",
+      "channeling": "2026-01-26 12:04:53 +0800",
       "unbreakable": "2025-08-12 13:08:39 +0800",
       "soul_belt": "2025-08-12 13:08:39 +0800",
       "snowdrift": "2025-08-12 13:08:39 +0800",
@@ -44276,11 +44281,13 @@
       "flinging": "2025-08-12 13:08:39 +0800",
       "slurping": "2025-08-12 13:08:39 +0800",
       "gilded": "2025-08-12 13:08:39 +0800",
+      "ballista": "2026-01-26 12:04:53 +0800",
       "melting": "2025-08-12 13:08:39 +0800",
       "protection": "2025-08-12 13:08:39 +0800",
       "ambidextrous": "2025-08-12 13:08:39 +0800",
       "exchanging": "2025-08-12 13:08:39 +0800",
       "pathing": "2025-08-12 13:08:39 +0800",
+      "throwing": "2026-01-26 12:04:53 +0800",
       "double_jump": "2025-08-12 13:08:39 +0800",
       "expanded": "2025-08-12 13:08:39 +0800",
       "stripping": "2025-08-12 13:08:39 +0800",
@@ -44293,13 +44300,17 @@
       "boundless": "2025-08-12 13:08:39 +0800",
       "firestarter": "2025-08-12 13:08:39 +0800",
       "crafting_table": "2025-08-12 13:08:39 +0800",
+      "drill_attack": "2026-01-26 12:04:53 +0800",
       "bulk_quiver": "2025-08-12 13:08:39 +0800",
       "glowing": "2025-08-12 13:08:39 +0800",
       "splashing": "2025-08-12 13:08:39 +0800",
+      "returning": "2026-01-26 12:04:53 +0800",
+      "wings": "2026-01-26 12:04:53 +0800",
+      "grapple": "2026-01-26 12:04:53 +0800",
       "parrying": "2025-08-12 13:08:39 +0800",
       "tool_belt": "2025-08-12 13:08:39 +0800"
     },
-    "done": false
+    "done": true
   },
   "immersiveengineering:recipes/misc/crafting/ingot_nickel_to_storage_nickel": {
     "criteria": {
@@ -51856,21 +51867,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/materials/knightmetal_ingot_from_block": {
-    "criteria": {
-      "has_item": "2026-01-25 13:28:44 +0800"
-    },
-    "done": true
-  },
   "kaleidoscope_cookery:flower_straw_hat": {
     "criteria": {
       "has_flower_straw_hat": "2026-01-25 12:22:09 +0800"
-    },
-    "done": true
-  },
-  "kaleidoscope_cookery:scarecrow": {
-    "criteria": {
-      "place_scarecrow": "2026-01-25 14:14:39 +0800"
     },
     "done": true
   },
@@ -51880,6 +51879,2558 @@
       "has_farmer_leggings": "2026-01-25 12:22:11 +0800",
       "has_farmer_boots": "2026-01-25 12:22:12 +0800",
       "has_straw_hat": "2026-01-25 12:22:09 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/knightmetal_ingot_from_block": {
+    "criteria": {
+      "has_item": "2026-01-25 13:28:44 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:scarecrow": {
+    "criteria": {
+      "place_scarecrow": "2026-01-25 14:14:39 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ebus_upgrade": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_birch": {
+    "criteria": {
+      "has_wood": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/bioluminescent_torch": {
+    "criteria": {
+      "bioluminescent_torch": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_acacia": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/goggles": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_block_wall": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/shield": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_pattern": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_warped": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/frostmint_explosion": {
+    "criteria": {
+      "frostmint_explosion": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:caterpillar": {
+    "criteria": {
+      "has_caterpillar": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
+    "criteria": {
+      "summon_luxtructosaurus": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/seared_forge_material": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_speed": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ebus_out": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/seeking_arrow": {
+    "criteria": {
+      "seeking_arrow": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/tag_export_bus": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/threshold_level_emitter": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/food/stuffed_dough_food": {
+    "criteria": {
+      "has_dough": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:add_oil": {
+    "criteria": {
+      "put_oil_in_pot": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_crimson": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:dough": {
+    "criteria": {
+      "pull_the_dough": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/sprint_speed_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:make_soup": {
+    "criteria": {
+      "use_lid_on_stockpot": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_acacia": {
+    "criteria": {
+      "has_wood": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_jungle": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_crafter_terminal": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_slab": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_furnace_component": {
+    "criteria": {
+      "raygun": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/farmer_chest_plate": {
+    "criteria": {
+      "has_leather": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_1_wheat": {
+    "criteria": {
+      "has_wheat": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/trade_with_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_wall": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_2_wheat": {
+    "criteria": {
+      "has_wheat": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/convert_biome": {
+    "criteria": {
+      "convert_biome": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sugar_rush": {
+    "criteria": {
+      "all_effects": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cut_small_meats_from_smoking": {
+    "criteria": {
+      "has_raw_cut_small_meats": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/guano": {
+    "criteria": {
+      "guano": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/convert_nether_biome": {
+    "criteria": {
+      "convert_biome": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:iron_hoe": {
+    "criteria": {
+      "use_hoe_on_water_field": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/throughput_monitor_configurator": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:burn_hand_soup": {
+    "criteria": {
+      "hurt_when_takeout_from_stockpot": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_tremorzilla": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_glass": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:burn_hand": {
+    "criteria": {
+      "hurt_when_takeout_from_pot": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_mine_guardian": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/strength_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/scorched_forge_material": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/hp_buffer_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumaccel": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/cobalt_nugget_blasting": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/precise_storage_bus": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/water_breathing_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/knightmetal_nugget_smelting": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/farmer_boots": {
+    "criteria": {
+      "has_leather": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epa_upgrade": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/tape": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_tremorsaurus": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_crimson": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_pork_belly_from_smelting": {
+    "criteria": {
+      "has_raw_pork_belly": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/parts/fake_block_to_ingots": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/conversion_crucible": {
+    "criteria": {
+      "mussel": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/pre_bus": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/floater": {
+    "criteria": {
+      "floater": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_birch": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_base_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:netherite_knife": {
+    "criteria": {
+      "has_netherite_knife": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_from_block": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/extinction_spear": {
+    "criteria": {
+      "dreadbow": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_dark_oak": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:apprentice_chef": {
+    "criteria": {
+      "has_borscht": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/chili_seed_from_red_chili": {
+    "criteria": {
+      "has_chili": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/portable_workbench_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_nuclear_bomb": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radiant_essence": {
+    "criteria": {
+      "mussel": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:dangerous_chef": {
+    "criteria": {
+      "kill_piglin_brute": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_luxtructosaurus": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/oversize_interface": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/feed_gummy_bear": {
+    "criteria": {
+      "interact": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/breed_grottoceratops": {
+    "criteria": {
+      "breed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/crystal_fixer": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radgill_bucket": {
+    "criteria": {
+      "radgill_bucket": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ei_alt": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_kitchen_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_armor": {
+    "criteria": {
+      "shirt": "2026-01-26 12:04:53 +0800",
+      "pants": "2026-01-26 12:04:53 +0800",
+      "helmet": "2026-01-26 12:04:53 +0800",
+      "boots": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_donkey_meat_from_smoking": {
+    "criteria": {
+      "has_raw_donkey_meat": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/advpatpropart": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/chili_seed_from_green_chili": {
+    "criteria": {
+      "has_chili": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_cherry": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/samsa_from_smelting": {
+    "criteria": {
+      "has_stuffed_dough_food": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tables/scorched_anvil_material": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/polymer_plate": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:transmutation_lunch_bag": {
+    "criteria": {
+      "use_transmutation_lunch_bag": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:nitrogen_3000": {
+    "criteria": {
+      "climb_3000": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_chest": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_forsaken": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/atlatitan_stomp": {
+    "criteria": {
+      "atlatitan_stomp": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/confection_oven": {
+    "criteria": {
+      "mussel": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/mod_storage_bus": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/water_cell": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/walk_speed_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/food/tomato_seed": {
+    "criteria": {
+      "has_tomato": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/smalladvpatpro": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/evasion_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_boots_item_reset": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/farmer_leggings": {
+    "criteria": {
+      "has_leather": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/remote_detonation": {
+    "criteria": {
+      "stalked_by_deep_one": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_mussel": {
+    "criteria": {
+      "mussel": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/wireless_ex_pat": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tremorzilla_kill_beam": {
+    "criteria": {
+      "tremorzilla_kill_beam": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_5_wheat": {
+    "criteria": {
+      "has_wheat": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/cobalt_ingot_blasting": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_warped": {
+    "criteria": {
+      "has_wood": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cow_offal_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2026-01-26 12:04:53 +0800",
+      "has_raw_cow_offal": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_forlorn_hollows": {
+    "criteria": {
+      "discover": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/silicon_block": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "slam": "2026-01-26 12:04:53 +0800",
+      "green_soylent": "2026-01-26 12:04:53 +0800",
+      "spelunkie": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shadow_armor": {
+    "criteria": {
+      "helmet": "2026-01-26 12:04:53 +0800",
+      "tunic": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/flight_drift_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/finished_quarry": {
+    "criteria": {
+      "finished_quarry": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_donkey_meat_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_donkey_meat": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/cobblestone_cell": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_crimson": {
+    "criteria": {
+      "has_wood": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_boundroid": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/jump_height_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/chestplate": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_lamb_chops_from_smoking": {
+    "criteria": {
+      "has_raw_lamb_chops": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sack_of_sating": {
+    "criteria": {
+      "mussel": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:feed_chicken": {
+    "criteria": {
+      "use_caterpillar_feed_chicken": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_block_slab": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/smalladvpatpro2": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/fishbig": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:rice_panicle": {
+    "criteria": {
+      "has_rice_panicle": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/totem_of_possession": {
+    "criteria": {
+      "totem_of_possession": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sweetish_fish_bucket": {
+    "criteria": {
+      "bucket": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_boots": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/import_export_bus": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/transmutation_lunch_bag": {
+    "criteria": {
+      "has_nether_star": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/mussel": {
+    "criteria": {
+      "mussel": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cut_small_meats_from_smelting": {
+    "criteria": {
+      "has_raw_cut_small_meats": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_leggings_item_reset": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_cherry": {
+    "criteria": {
+      "has_wood": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/wireless_connector": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_wall": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/auto_feed_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ex_io_port": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumunit": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/active_formation_plane": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cut_small_meats_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_cut_small_meats": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ebus_in": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epp_part": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_dark_oak": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:millstone": {
+    "criteria": {
+      "drive_the_millstone": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/scarecrow": {
+    "criteria": {
+      "has_pumpkin": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2026-01-26 12:04:53 +0800",
+      "azure": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ex_drive": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/candy_cane_hook": {
+    "criteria": {
+      "candy_cane_hook": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:dual_chili": {
+    "criteria": {
+      "has_green_chili": "2026-01-26 12:04:53 +0800",
+      "has_red_chili": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumstorage128": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/parts/fake_ingot_to_block": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_stairs": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gum_worm": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/advanced_io_bus": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ingredient_buffer": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/magnet_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_leggings": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/caner": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ex_molecular_assembler": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/bioluminesscence": {
+    "criteria": {
+      "bioluminesscence": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantummultithreader": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_birch": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_pork_belly_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_pork_belly": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "cmi:echoes_north_star": {
+    "criteria": {
+      "get_water_pump": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_storage_component": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/sickle": {
+    "criteria": {
+      "has_flint": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_lamp": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:nitrogen_100": {
+    "criteria": {
+      "climb_100": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:chopping_board": {
+    "criteria": {
+      "use_chopping_board": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/marine_snow": {
+    "criteria": {
+      "marine_snow": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/pants": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/knightmetal_ingot_from_nuggets": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/pattern_modifier": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/step_assist_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:tomato_seed": {
+    "criteria": {
+      "has_tomato_seed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stop_nuclear_furnace_meltdown": {
+    "criteria": {
+      "stop_nuclear_furnace_meltdown": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:baozi": {
+    "criteria": {
+      "meat_buns_beat_dogs": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/mod_export_bus": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/galena_gauntlet_challenge": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:steamer": {
+    "criteria": {
+      "use_steamer": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/redstone/stove_soul_campfire": {
+    "criteria": {
+      "has_soul_campfire": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_chestplate_item_reset": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/lava_immunity_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_darkened_apple": {
+    "criteria": {
+      "eat_darkened_apple": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/knightmetal_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_raycat": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_bamboo": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/knightmetal_block_from_ingots": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:fish_rice": {
+    "criteria": {
+      "place_fish_in_rice_field": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ei_upgrade": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_7_wheat": {
+    "criteria": {
+      "has_wheat": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/regeneration_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_6_wheat": {
+    "criteria": {
+      "has_wheat": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/silicon_block_disassembler": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_recipe": "2026-01-26 12:04:53 +0800",
+      "has_compass": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_ones_become_helpful": {
+    "criteria": {
+      "stalked_by_deep_one": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/underzealot_sacrifice": {
+    "criteria": {
+      "underzealot_sacrifice": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/redstone/stove_campfire": {
+    "criteria": {
+      "has_campfire": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cow_offal_from_smelting": {
+    "criteria": {
+      "has_the_recipe": "2026-01-26 12:04:53 +0800",
+      "has_raw_cow_offal": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/advpatpro2": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defuse_nuclear_bomb": {
+    "criteria": {
+      "interact": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:stockpot": {
+    "criteria": {
+      "place_stockpot_on_heat_source": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/straw_block": {
+    "criteria": {
+      "has_rice_panicle": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/throughput_monitor": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_candicorn": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/steel_nugget_blasting": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_bamboo": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:nitrogen_300": {
+    "criteria": {
+      "climb_300": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/feed_relicheirus": {
+    "criteria": {
+      "interact": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_lamb_chops_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_lamb_chops": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_frame": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_oak": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumcore": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_donkey_meat_from_smelting": {
+    "criteria": {
+      "has_raw_donkey_meat": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "red": "2026-01-26 12:04:53 +0800",
+      "pink": "2026-01-26 12:04:53 +0800",
+      "green": "2026-01-26 12:04:53 +0800",
+      "blue": "2026-01-26 12:04:53 +0800",
+      "yellow": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumstorage256": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/feed_gammaroach": {
+    "criteria": {
+      "interact": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:stove": {
+    "criteria": {
+      "lit_the_stove": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/shawarma_spit": {
+    "criteria": {
+      "has_campfire": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/wireless_hub": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/swim_speed_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dreadbow": {
+    "criteria": {
+      "dreadbow": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "magic_conch": "2026-01-26 12:04:53 +0800",
+      "gazing_pearl": "2026-01-26 12:04:53 +0800",
+      "sea_staff": "2026-01-26 12:04:53 +0800",
+      "ortholance": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/debris_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2026-01-26 12:04:53 +0800",
+      "killed_luxtructosaurus": "2026-01-26 12:04:53 +0800",
+      "killed_relicheirus": "2026-01-26 12:04:53 +0800",
+      "killed_tremorsaurus": "2026-01-26 12:04:53 +0800",
+      "killed_atlatitan": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shadow_silk": {
+    "criteria": {
+      "desolate_dagger": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_lamb_chops_from_smelting": {
+    "criteria": {
+      "has_raw_lamb_chops": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/jelly_bean": {
+    "criteria": {
+      "mussel": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/threshold_export_bus": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "interact_grottoceratops": "2026-01-26 12:04:53 +0800",
+      "interact_subterranodon": "2026-01-26 12:04:53 +0800",
+      "killed_by_subterranodon": "2026-01-26 12:04:53 +0800",
+      "interact_relicheirus": "2026-01-26 12:04:53 +0800",
+      "killed_vallumraptor": "2026-01-26 12:04:53 +0800",
+      "killed_by_relicheirus": "2026-01-26 12:04:53 +0800",
+      "interact_tremorsaurus": "2026-01-26 12:04:53 +0800",
+      "killed_grottoceratops": "2026-01-26 12:04:53 +0800",
+      "killed_tremorsaurus": "2026-01-26 12:04:53 +0800",
+      "killed_by_grottoceratops": "2026-01-26 12:04:53 +0800",
+      "killed_by_vallumraptor": "2026-01-26 12:04:53 +0800",
+      "killed_subterranodon": "2026-01-26 12:04:53 +0800",
+      "killed_by_tremorsaurus": "2026-01-26 12:04:53 +0800",
+      "interact_vallumraptor": "2026-01-26 12:04:53 +0800",
+      "killed_relicheirus": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_underzealot": "2026-01-26 12:04:53 +0800",
+      "interact_underzealot": "2026-01-26 12:04:53 +0800",
+      "killed_by_underzealot": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumstructure": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_helmet": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/reset_recipe_item": {
+    "criteria": {
+      "has_recipe_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:oil": {
+    "criteria": {
+      "kill_pig": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/enamel_basin": {
+    "criteria": {
+      "has_bucket": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/mystery_cave_painting": {
+    "criteria": {
+      "mystery_cave_painting": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/wireless_tool": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/magnet": {
+    "criteria": {
+      "scarlet": "2026-01-26 12:04:53 +0800",
+      "azure": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ex_inscriber": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_helmet_item_reset": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/circuit_cutter": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/abyssal_bucket": {
+    "criteria": {
+      "lanternfish_bucket": "2026-01-26 12:04:53 +0800",
+      "sea_pig_bucket": "2026-01-26 12:04:53 +0800",
+      "tripodfish_bucket": "2026-01-26 12:04:53 +0800",
+      "gossamer_worm_bucket": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/frostmint_spear": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:straw_hat": {
+    "criteria": {
+      "has_straw_hat": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/flight_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_block": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/night_vision_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/reach_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_acacia": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_jungle": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/assembler_matrix_crafter": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hologram_projector": {
+    "criteria": {
+      "hologram_projector": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ei": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_ones_become_neutral": {
+    "criteria": {
+      "stalked_by_deep_one": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tables/tinkers_anvil_material": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:stir_fry": {
+    "criteria": {
+      "stir_fry_in_pot": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_warped": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/luck_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_mangrove": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/netherite_scrap_from_nuggets": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_candy_cane": {
+    "criteria": {
+      "eat_candy_cane": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "shirt": "2026-01-26 12:04:53 +0800",
+      "pants": "2026-01-26 12:04:53 +0800",
+      "helmet": "2026-01-26 12:04:53 +0800",
+      "boots": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shot_gum": {
+    "criteria": {
+      "shot_gum": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2026-01-26 12:04:53 +0800",
+      "has_cobweb": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epp_alt": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_jungle": {
+    "criteria": {
+      "has_wood": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epp": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epa": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_8_wheat": {
+    "criteria": {
+      "has_wheat": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "shirt": "2026-01-26 12:04:53 +0800",
+      "pants": "2026-01-26 12:04:53 +0800",
+      "helmet": "2026-01-26 12:04:53 +0800",
+      "boots": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/table_mangrove": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/smallappupgrade": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantum_alloy_block_stair": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/stock_export_bus": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_4_wheat": {
+    "criteria": {
+      "has_wheat": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/oversize_interface_alt": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/flour_from_3_wheat": {
+    "criteria": {
+      "has_wheat": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/tools/armor/travelers/boots": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_gum_worm": {
+    "criteria": {
+      "ride_gum_worm": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:iron_knife": {
+    "criteria": {
+      "has_iron_knife": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_oak": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_painting": {
+    "criteria": {
+      "cave_painting": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_bamboo": {
+    "criteria": {
+      "has_wood": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/pick_craft_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/reactionchamber": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/recharging_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sundae": {
+    "criteria": {
+      "mussel": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/advpartenc": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ex_charger": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/epp_upgrade": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl_on_abyssal_altar": {
+    "criteria": {
+      "use_charcoal": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/auto_stock_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chili_ristra": {
+    "criteria": {
+      "has_red_chili": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/rice_panicle": {
+    "criteria": {
+      "has_rice_panicle": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumdataentangler": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/attack_speed_card": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/acid_create_rust": {
+    "criteria": {
+      "rust": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/cook_stool_mangrove": {
+    "criteria": {
+      "has_wood": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ei_part": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cow_offal_from_campfire_cooking": {
+    "criteria": {
+      "has_the_recipe": "2026-01-26 12:04:53 +0800",
+      "has_raw_cow_offal": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:pot": {
+    "criteria": {
+      "place_pot_on_heat_source": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/tag_storage_bus": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:nitrogen_1000": {
+    "criteria": {
+      "climb_1000": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/rainbounce_boots": {
+    "criteria": {
+      "limestone": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/samsa_from_smoking": {
+    "criteria": {
+      "has_stuffed_dough_food": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gobthumper": {
+    "criteria": {
+      "gobthumper": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/smalladvpatpropart": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/moth_ball": {
+    "criteria": {
+      "moth_ball": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/chair_cherry": {
+    "criteria": {
+      "has_fence": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/steel_nugget_smelting": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/beholder_far_away": {
+    "criteria": {
+      "beholder_far_away": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/samsa_from_campfire_cooking": {
+    "criteria": {
+      "has_stuffed_dough_food": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/ex_drive_upgrade": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_sea_sushi_roll": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_pork_belly_from_smoking": {
+    "criteria": {
+      "has_raw_pork_belly": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/repair_submarine": {
+    "criteria": {
+      "interact": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaurs_minecart": {
+    "criteria": {
+      "dinosaurs_minecart": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/largeappupgrade": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "advanced_ae:recipes/misc/quantumcrafter": {
+    "criteria": {
+      "hasItem": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_lamp": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/trilocaris_bucket": {
+    "criteria": {
+      "trilocaris_bucket": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:scarecrow_head": {
+    "criteria": {
+      "place_head_on_scarecrow": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_vallumraptor": {
+    "criteria": {
+      "killed": "2026-01-26 12:04:53 +0800"
+    },
+    "done": true
+  },
+  "expatternprovider:recipes/misc/oversize_interface_part": {
+    "criteria": {
+      "has_item": "2026-01-26 12:04:53 +0800",
+      "has_the_recipe": "2026-01-26 12:04:53 +0800"
     },
     "done": true
   },
