@@ -1,17 +1,17 @@
-filename = 'ruok-forge_1.20.1_Pre-Release_4-1.7.4.jar'
+filename = 'ruok-forge_1.20.1_Pre-Release_6-1.7.4.jar'
 name = 'RuOK'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'ruok-forge_1.20.1_Pre-Release_4-1.7.4'
+x-prismlauncher-version-number = 'ruok-forge_1.20.1_Pre-Release_6-1.7.4'
 
 [download]
-hash = 'a70ca3ffd579b0d96a3b32771f09a9df81563342'
+hash = '210086567b4655520e79588df4ab6fa2741531d0'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7578866
+file-id = 7637298
 project-id = 910904
