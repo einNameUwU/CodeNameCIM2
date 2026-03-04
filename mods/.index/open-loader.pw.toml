@@ -1,17 +1,17 @@
-filename = 'AdvancedAE-1.3.3-1.20.1.jar'
-name = 'AdvancedAE'
+filename = 'OpenLoader-Forge-1.20.1-19.0.5.jar'
+name = 'Open Loader'
 side = 'server'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'AdvancedAE-1.3.3-1.20.1'
+x-prismlauncher-version-number = 'OpenLoader-Forge-1.20.1-19.0.5.jar'
 
 [download]
-hash = 'c79610d56cfb576dacb919f699f918b88916b1ca'
+hash = 'a0d862da2dd1dc21d00e64508f56e45d31639686'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7668689
-project-id = 1084104
+file-id = 7613218
+project-id = 354339

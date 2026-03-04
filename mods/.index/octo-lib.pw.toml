@@ -1,5 +1,5 @@
 filename = 'OctoLib-FORGE-0.5.0.1+1.20.1.jar'
-name = 'OctoLib'
+name = 'ShatterLib | OctoLib'
 side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
