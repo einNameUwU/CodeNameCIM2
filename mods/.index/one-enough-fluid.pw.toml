@@ -1,17 +1,17 @@
-filename = 'OneEnoughFluid-1.1.0-jech.jar'
+filename = 'OneEnoughFluid-1.1.1-hotfix.jar'
 name = 'One Enough Fluid'
-side = ''
+side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'OneEnoughFluid-1.1.0-jech.jar'
+x-prismlauncher-version-number = 'OneEnoughFluid-1.1.1-hotfix.jar'
 
 [download]
-hash = '80239f8fcf3801f226e4475f388bac44fceb49f2'
+hash = '2dca7406c6bc5acf7cab6f001de36ae9beef754c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7268089
+file-id = 7884506
 project-id = 1366406

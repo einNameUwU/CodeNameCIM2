@@ -1,17 +1,17 @@
-filename = 'smartercontraptionstorage-1.20.1-1.3.jar'
+filename = 'smartercontraptionstorage-1.20.1-6.0.0-1.4.5.jar'
 name = 'SmarterContraptionStorage'
 side = 'server'
-x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'smartercontraptionstorage-1.20.1-1.3.jar'
+x-prismlauncher-version-number = 'smartercontraptionstorage-1.20.1-6.0.0-1.4.5.jar'
 
 [download]
-hash = '72d972b31ba673772901beb2e7ebc73c1bbcd758'
+hash = 'c6a8b553bc95a39b16af4d272c8afccf6df55d70'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6387093
+file-id = 7383922
 project-id = 1050582

@@ -1,17 +1,17 @@
-filename = 'moreburners-1.20.1-0.3.1.jar'
+filename = 'moreburners-1.20.1-0.3.5.jar'
 name = 'More Create Burners'
 side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'moreburners-1.20.1-0.3.1.jar'
+x-prismlauncher-version-number = 'moreburners-1.20.1-0.3.5.jar'
 
 [download]
-hash = '720a731b89a405a834c4b8c6357d89c2f82bbe6e'
+hash = '31f9486bebffd731966227c526d7363f27ba5c8f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 6104568
+file-id = 7395216
 project-id = 1111030
