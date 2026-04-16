@@ -1,5 +1,5 @@
 filename = 'time-in-a-bottle-4.0.4-mc1.20.1.jar'
-name = 'Time in a bottle [FORGE\NEOFORGE\FABRIC]'
+name = 'Time in a Bottle'
 side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
