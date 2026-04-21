@@ -1,18 +1,18 @@
-filename = 'OELib-forge-1.20.1-0.2.3.jar'
-name = 'One Enough Lib'
+filename = 'OELib-forge-1.20.1-0.2.4.jar'
+name = 'OELib'
 side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'OELib-forge-1.20.1-0.2.3.jar'
+x-prismlauncher-version-number = 'OELib-forge-1.20.1-0.2.4.jar'
 
 [download]
-hash = '2c5a133b5112bf56d41ab4652d46375b3f0ce8f4'
+hash = 'ce8e30b3e539733d269ff326a3a034549e006cfa'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7817149
+file-id = 7946289
 project-id = 1319210
