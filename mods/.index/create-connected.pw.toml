@@ -1,25 +1,25 @@
-filename = 'create_connected-1.2.0-mc1.20.1-all.jar'
+filename = 'create_connected-1.2.2-mc1.20.1-all.jar'
 name = 'Create: Connected'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'create_connected 1.2.0-mc1.20.1'
+x-prismlauncher-version-number = 'create_connected 1.2.2-mc1.20.1'
 
 [download]
-hash = 'cb83b8475cb9b75c66e6f460909d0383d264edbd'
+hash = 'd945957c69b4fe368d6284c6f3e43aaa714b36fe'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8143922
+file-id = 8221412
 project-id = 947914
-
-[[x-prismlauncher-dependencies]]
-addonId = '238222'
-type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = '328085'
 type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'

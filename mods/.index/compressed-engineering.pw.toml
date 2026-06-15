@@ -1,19 +1,19 @@
-filename = 'compressedengineering-1.4.6.jar'
+filename = 'compressedengineering-1.4.7.jar'
 name = 'Compressed Engineering'
 side = 'server'
 x-prismlauncher-loaders = [ 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'compressedengineering-1.4.6.jar'
+x-prismlauncher-version-number = 'compressedengineering-1.4.7.jar'
 
 [download]
-hash = '7fa74ee61f24f63f7952df2c00a3e5a237ac7ea4'
+hash = '6fe5a1128e576b01c7da703e7c736d83f7f5e586'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8192720
+file-id = 8211491
 project-id = 1052457
 
 [[x-prismlauncher-dependencies]]
