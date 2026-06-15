@@ -1,0 +1,41 @@
+filename = 'uti_afac-1.1.5+1.20.1-forge.jar'
+name = 'UntranslatedItems: AlsoFluidsAndChemicals'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'uti_afac-1.1.5+1.20.1-forge.jar'
+
+[download]
+hash = 'dba3a2b842815e44fc68c8ca2d5fd5a03a4c2b10'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6884952
+project-id = 1071634
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268560'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '890405'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '401770'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '574300'
+type = 'OPTIONAL'
