@@ -1,0 +1,18 @@
+filename = 'quick-pack-forge-1.3.1+1.20.1-all.jar'
+name = 'quick pack'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.4', '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'quick-pack forge-1.3.1+1.20.1'
+
+[download]
+hash = '05126ce8f9f6ca00ada4743859f2c97aafe0917b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7935942
+project-id = 1380888
