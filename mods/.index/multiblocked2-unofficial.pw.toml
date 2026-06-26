@@ -1,19 +1,19 @@
-filename = 'multiblocked2-unofficial-1.20.1-1.0.40.b.hotfix1.jar'
+filename = 'multiblocked2-unofficial-1.20.1-1.0.40.c.hotfix2.jar'
 name = 'Multiblocked2-unofficial'
 side = 'server'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'multiblocked2-unofficial-1.20.1-1.0.40.b.hotfix1.jar'
+x-prismlauncher-version-number = 'multiblocked2-unofficial-1.20.1-1.0.40.c.hotfix2.jar'
 
 [download]
-hash = '04a6f46ffe75437c791273a87b4b17e741280eb4'
+hash = '30e68139e0ca488a917ae7002fec558a1900e3a2'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 8287541
+file-id = 8312857
 project-id = 1562745
 
 [[x-prismlauncher-dependencies]]

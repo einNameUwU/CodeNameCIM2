@@ -1,0 +1,29 @@
+filename = 'easyrepair-forge-1.20.1-1.1.5.jar'
+name = "Tinkers' Easy Repair"
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'easyrepair-forge-1.20.1-1.1.5.jar'
+
+[download]
+hash = '60b2e31cbffeb93e613f5e0874d7b661c1ad9285'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7914453
+project-id = 1319910
+
+[[x-prismlauncher-dependencies]]
+addonId = '74072'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '74924'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'OPTIONAL'
